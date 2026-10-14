@@ -15,7 +15,7 @@ export default {
       <body>
         <div>
           <h1>Welcome to Choshux!</h1>
-          <p>Vibeコーディングの世界へようこそ🚀</p>
+          <p>Vibeコーディングの世界へようこそ🚀 自動デプロイテスト</p>
         </div>
       </body>
       </html>
